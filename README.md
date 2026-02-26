@@ -10,7 +10,6 @@
 - [Technologies Used](#technologies-used)
 - [Results & Visualizations](#results--visualizations)
 - [Recommendation](#recommendation)
-- [Contact](#contact)
 
 ## Overview: 
 
