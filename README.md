@@ -149,8 +149,3 @@ Use data-driven discounts based on customer segments, product performance, and t
 
 Investigate external factors (e.g., marketing, economy, competitors) affecting sales drops (Oct–Dec 2017) and adjust strategies accordingly.
 
-## Contact
-
-📧 Email: phanchenh99@gmail.com
-
-🔗 [LinkedIn](https://www.linkedin.com/in/phan-chenh-6a7ba127a/) | [Portfolio](https://henh-phan-chenh.vercel.app/)
